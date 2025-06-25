@@ -1,5 +1,3 @@
-A Streamlit web app that summarizes YouTube videos using their transcripts and Hugging Face's BART model.
-
 ## Features
 - Extracts transcript from YouTube videos
 - Summarizes using a transformer-based model (BART)
