@@ -15,7 +15,7 @@
 ## Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/youtube-video-summarizer.git
+git clone [https://github.com/yourusername/youtube-video-summarizer.git](https://github.com/keshaz89/YouTube-Video-Summarizer.git)
 cd youtube-video-summarizer
 ```
 2. **Install Dependencies**
