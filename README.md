@@ -15,7 +15,6 @@ A Streamlit web app that summarizes YouTube videos using their transcripts and H
 - PyTorch  
 
 ## Installation
-
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/youtube-video-summarizer.git
@@ -29,4 +28,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run final.py
 ```
+
 ## Demo
+https://github.com/user-attachments/assets/1aa84d27-f8e7-4a0d-90aa-67f56843cfe5
+
