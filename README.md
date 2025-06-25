@@ -1,5 +1,3 @@
-# YouTube Video Summarizer
-
 A Streamlit web app that summarizes YouTube videos using their transcripts and Hugging Face's BART model.
 
 ## Features
