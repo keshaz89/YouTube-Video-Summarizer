@@ -23,4 +23,12 @@ A Streamlit web app that summarizes YouTube videos using their transcripts and H
 git clone https://github.com/yourusername/youtube-video-summarizer.git
 cd youtube-video-summarizer
 ```
+2. **Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+3. **Run the Application**
+```bash
+streamlit run final.py
+```
 ## Demo
